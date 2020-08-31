@@ -7,6 +7,8 @@ namespace samsock_technical_assignment1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Here is a change to technical assignment 1!");
         }
     }
 }
